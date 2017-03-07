@@ -1,5 +1,9 @@
 <?php 
 	/*
+		Author :- Ahmed Fekry
+		Email :- ahmedfikry78@gmail.com
+		GitHub Account :- github.com/ahmedfekry
+		
 		File upload in laravel 5.2
 		this code is used to upload images in the controller
 		insert use File; at the top of the file

@@ -1,6 +1,16 @@
 <?php 
 
-
+    /* 
+     Author :- Ahmed Fekry
+     Email :- ahmedfikry78@gmail.com
+     GitHub Account :- github.com/ahmedfekry
+    
+    */
+    
+     /*
+        this function is used to return the timezones
+        credit :- http://stackoverflow.com/a/6369355/3055120
+     */
     function timezones()
     {
     	return  array(
@@ -119,7 +129,10 @@
             );
 
     }
-    
+
+    /*
+        this function is used to return the curency
+     */
     function currency()
     {
         return  array(
